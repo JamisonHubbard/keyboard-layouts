@@ -2,7 +2,7 @@
 
 ![Piantor 34 v1 Layout](layout.png)
 
-This layout is my second and current layout. 
+This layout was my second layout. 
 This layout uses "toggle on" layer keys as opposed to "momentary" layer keys, meaning I can simply tap a layer key and that layer will be activated until I tap a different key to move to another layer.
 Other notable features are the Colemak-DH inspired layout, the homerow mods for `Super` and `Alt`, the hold behaviors for `/`, `.`, and `,` keys on the default layer, and the sticky keys for `Shift`, `Control`, and `Alt`.
 
@@ -25,9 +25,9 @@ This layering system provides some ease-of-use when navigating the layers, parti
 
 ### Sticky Keys
 
-The "sticky" Control and Shift keys, as well as sticky Alt on `L1`-`L3`, are indicated in the diagram with the `-Key-` syntax. 
+The "sticky" `Control` and `Shift` keys, as well as sticky `Alt` on `L1`-`L3`, are indicated in the diagram with the `-Key-` syntax. 
 These keys can be tapped, and then will be used to Mod the *next* tapped key (timeout is 1 sec). 
-This allows for capitalizing letters or entering common Control commands (e.g. `Control`+`C`) without having to hold down a key and contort one's hands, but instead do a "rolling" action.
+This allows for capitalizing letters or entering common `Control` commands (e.g. `Control`+`C`) without having to hold down a key and contort one's hands, but instead do a "rolling" action.
 
 ### Homerow Mods
 
